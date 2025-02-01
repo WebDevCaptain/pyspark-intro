@@ -1,0 +1,8 @@
+name: /home/ms/Projects/Machine-Learning/learn/PySpark/pyspark-intro/env
+channels:
+  - defaults
+dependencies:
+  - python=3.12.8
+  - pyspark
+  - jupyterlab
+prefix: /home/ms/Projects/Machine-Learning/learn/PySpark/pyspark-intro/env

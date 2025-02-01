@@ -1,3 +1,4 @@
 env/
 .vscode/
 push.sh
+.ipynb_checkpoints/
